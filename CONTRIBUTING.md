@@ -15,7 +15,7 @@
     * `git status`
 	    * See the status of your current working repository.
 	* `git add .`
-        * Adds the file to the repo.\
+        * Adds the file to the repo.
 	
 	You can run `git status` again to see that the file has been added.
 	
