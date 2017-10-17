@@ -11,9 +11,9 @@
    initials.md or firstname_lastname.md. Add a link to your github
    profile inside of this file. 
    
-   `cd hello-world/contributors`
-   `touch wj.md`
-   `vim wj.md`
+   >- `$ cd hello-world/contributors`
+   >- `$ touch wj.md`
+   >- `$ vim wj.md`
    
    Add a link to your github profile:
    `https://www.github.com/imwally`
